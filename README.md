@@ -16,6 +16,6 @@ setting the marker, marker’s face color, marker’s size.
 overriding the x and y axis range. If overriding is not done, pyplot module uses auto-scale feature to set the axis range and scale.
 
 
-Note-
+# Note-
 If file is not rendered, then visit-
 https://nbviewer.jupyter.org/github/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python%20%282%29.ipynb
