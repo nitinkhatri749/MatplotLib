@@ -1,6 +1,7 @@
 # MatplotLib
 Matplotlib is the most popular graphing and data visualization library for Python.
 
+# Line Plotting-
 The code seems self explanatory. Following steps were followed:
 
 Define the x-axis and corresponding y-axis values as lists.
@@ -13,7 +14,6 @@ As you can see, we have done several customizations like
 
 setting the line-width, line-style, line-color.
 setting the marker, marker’s face color, marker’s size.
-overriding the x and y axis range. If overriding is not done, pyplot module uses auto-scale feature to set the axis range and scale.
 
 
 # Note-
