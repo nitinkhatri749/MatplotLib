@@ -31,5 +31,5 @@ x-coordinates of left side of bars are passed along with heights of bars.
 you can also give some name to x-axis coordinates by defining tick_labels
 
 # Note-
-If jupyter file(data visualization with python (2).ipynb) is not rendered, then visit-
-
+If jupyter file(data visualization with python.ipynb) is not rendered, then visit-
+https://nbviewer.jupyter.org/github/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python.ipynb
