@@ -1,3 +1,6 @@
+# Plotting in python
+
+Set 1
 # MatplotLib
 Matplotlib is the most popular data visualization library for Python.
 
@@ -29,6 +32,9 @@ autopct is used to format the value of each label. Here, we have set it to show 
 Use plt.bar() function to plot a bar chart.
 x-coordinates of left side of bars are passed along with heights of bars.
 you can also give some name to x-axis coordinates by defining tick_labels
+
+Set 2
+Plotting in python set 2(Subplots-Two or more plots in same figure) is about to come.
 
 # Note-
 If jupyter file(data visualization with python.ipynb) is not rendered, then visit-
