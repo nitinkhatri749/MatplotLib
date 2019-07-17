@@ -1,5 +1,5 @@
 # MatplotLib
-Matplotlib is arguably the most popular graphing and data visualization library for Python.
+Matplotlib is the most popular graphing and data visualization library for Python.
 
 The code seems self explanatory. Following steps were followed:
 
@@ -18,4 +18,4 @@ overriding the x and y axis range. If overriding is not done, pyplot module uses
 
 # Note-
 If jupyter file(data visualization with python (2).ipynb) is not rendered, then visit-
-https://nbviewer.jupyter.org/github/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python%20%282%29.ipynb
+
