@@ -1,5 +1,5 @@
 # MatplotLib
-Matplotlib is the most popular graphing and data visualization library for Python.
+Matplotlib is the most popular data visualization library for Python.
 
 # Line Plotting-
 The code seems self explanatory. Following steps were followed:
