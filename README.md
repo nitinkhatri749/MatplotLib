@@ -26,10 +26,9 @@ explode is used to set the fraction of radius with which we offset each wedge.
 autopct is used to format the value of each label. Here, we have set it to show the percentage value only upto 1 decimal place.
 
 # Bar chart-
-Use plt.hist() function to plot a histogram.
-frequencies are passed as the ages list.
-Range could be set by defining a tuple containing min and max value.
-Next step is to “bin” the range of values—that is, divide the entire range of values into a series of intervals—and then count how many values fall into each interval. Here we have defined bins = 10. So, there are a total of 100/10 = 10 intervals.
+Use plt.bar() function to plot a bar chart.
+x-coordinates of left side of bars are passed along with heights of bars.
+you can also give some name to x-axis coordinates by defining tick_labels
 
 # Note-
 If jupyter file(data visualization with python (2).ipynb) is not rendered, then visit-
