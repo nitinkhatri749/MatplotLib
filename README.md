@@ -39,3 +39,6 @@ Plotting in python set 2(Subplots-Two or more plots in same figure) is about to 
 # Note-
 If jupyter file(data visualization with python.ipynb) is not rendered, then visit-
 https://nbviewer.jupyter.org/github/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python.ipynb
+
+If jupyter file(data visualization with python part2.ipynb) is not rendered, then visit-
+https://nbviewer.jupyter.org/github/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python%20part2.ipynb
