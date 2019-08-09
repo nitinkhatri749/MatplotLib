@@ -39,7 +39,7 @@ you can also give some name to x-axis coordinates by defining tick_labels
 * Subplots - 
 Subplots are required when we want to show two or more plots in same figure. All steps are explained in ipython file.
 
-# Note-
+### Note-
 If jupyter file(data visualization with python.ipynb) is not rendered, then visit-
 https://nbviewer.jupyter.org/github/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python.ipynb
 
