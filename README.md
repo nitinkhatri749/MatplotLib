@@ -34,9 +34,10 @@ x-coordinates of left side of bars are passed along with heights of bars.
 you can also give some name to x-axis coordinates by defining tick_labels
 
 ## Set 2
-[data visualization with python part2.ipynb]()
-Plotting in python set 2(Subplots-Two or more plots in same figure) is about to come.
+[data visualization with python part2.ipynb](https://github.com/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python%20part2.ipynb) includes - 
 
+* Subplots - 
+Subplots are required when we want to show two or more plots in same figure. All steps are explained in ipython file.
 
 # Note-
 If jupyter file(data visualization with python.ipynb) is not rendered, then visit-
