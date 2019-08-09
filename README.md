@@ -1,10 +1,12 @@
 # Plotting in python
 
-Set 1
 # MatplotLib
 Matplotlib is the most popular data visualization library for Python.
 
-# Line Plotting-
+* Set 1 
+######[data visualization with python.ipynb](https://github.com/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python.ipynb) includes
+
+* Line Plotting-
 The code seems self explanatory. Following steps were followed:
 
 Define the x-axis and corresponding y-axis values as lists.
@@ -18,7 +20,7 @@ As you can see, we have done several customizations like
 setting the line-width, line-style, line-color.
 setting the marker, marker’s face color, marker’s size.
 
-# Pie Chart-
+* Pie Chart-
 Plot a pie chart by using plt.pie() method.
 First of all, define the labels using a list called grades.
 Then, portion of each label can be defined using another list called slices.
@@ -28,13 +30,14 @@ startangle rotates the start of the pie chart by given degrees counterclockwise 
 explode is used to set the fraction of radius with which we offset each wedge.
 autopct is used to format the value of each label. Here, we have set it to show the percentage value only upto 1 decimal place.
 
-# Bar chart-
+* Bar chart-
 Use plt.bar() function to plot a bar chart.
 x-coordinates of left side of bars are passed along with heights of bars.
 you can also give some name to x-axis coordinates by defining tick_labels
 
 Set 2
 Plotting in python set 2(Subplots-Two or more plots in same figure) is about to come.
+
 
 # Note-
 If jupyter file(data visualization with python.ipynb) is not rendered, then visit-
