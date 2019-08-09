@@ -3,8 +3,8 @@
 # MatplotLib
 Matplotlib is the most popular data visualization library for Python.
 
-* Set 1 
-######[data visualization with python.ipynb](https://github.com/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python.ipynb) includes
+##### Set 1 
+[data visualization with python.ipynb](https://github.com/nitinkhatri749/MatplotLib/blob/master/data%20visualization%20with%20python.ipynb) includes
 
 * Line Plotting-
 The code seems self explanatory. Following steps were followed:
