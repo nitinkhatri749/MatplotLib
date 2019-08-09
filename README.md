@@ -15,9 +15,7 @@ Give a name to x-axis and y-axis using .xlabel() and .ylabel() functions.
 Give a title to your plot using .title() function.
 Finally, to view your plot, we use .show() function.
 
-As you can see, we have done several customizations like
-
-setting the line-width, line-style, line-color.
+As you can see, we have done several customizations like setting the line-width, line-style, line-color.
 setting the marker, marker’s face color, marker’s size.
 
 * Pie Chart-
@@ -35,7 +33,8 @@ Use plt.bar() function to plot a bar chart.
 x-coordinates of left side of bars are passed along with heights of bars.
 you can also give some name to x-axis coordinates by defining tick_labels
 
-Set 2
+##Set 2
+[data visualization with python part2.ipynb]()
 Plotting in python set 2(Subplots-Two or more plots in same figure) is about to come.
 
 
